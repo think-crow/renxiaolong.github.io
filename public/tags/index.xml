@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 任晓龙的博客</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on 任晓龙的博客</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>你呢</title>
+      <link>http://localhost:1313/tags/%E4%BD%A0%E5%91%A2/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E4%BD%A0%E5%91%A2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>我很好</title>
+      <link>http://localhost:1313/tags/%E6%88%91%E5%BE%88%E5%A5%BD/</link>
+      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/%E6%88%91%E5%BE%88%E5%A5%BD/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
